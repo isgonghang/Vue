@@ -1,0 +1,125 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+h2{
+	text-align: center;
+	padding-top: 40px;
+}
+.screen{
+	width: 90%;
+	height: 500px;
+	margin: 0 auto;
+	margin-top: 50px;
+	border: 1px solid #ccc; 
+	position: relative;
+	background-image: url(../bg.jpg);
+}
+.screen div:nth-child(1){
+	position: absolute;
+	top: 100px;
+	left: 1600px;
+	font-size: 30px;
+	font-weight: bold;
+	color: red;
+}
+.screen div:nth-child(2){
+	position: absolute;
+	top: 150px;
+	left: 1600px;
+	font-size: 30px;
+	font-weight: bold;
+	color: red;
+}
+.screen div:nth-child(3){
+	position: absolute;
+	top: 200px;
+	left: 1600px;
+	font-size: 30px;
+	font-weight: bold;
+	color: red;
+}
+.screen div:nth-child(4){
+	position: absolute;
+	top: 250px;
+	left: 1600px;
+	font-size: 30px;
+	font-weight: bold;
+	color: red;
+}
+.screen div:nth-child(5){
+	position: absolute;
+	top: 300px;
+	left: 1600px;
+	font-size: 30px;
+	font-weight: bold;
+	color: red;
+}
+.screen div:nth-child(6){
+	position: absolute;
+	top: 300px;
+	left: 1600px;
+	font-size: 30px;
+	font-weight: bold;
+	color: red;
+}
+.screen div:nth-child(7){
+	position: absolute;
+	top: 300px;
+	left: 1600px;
+	font-size: 30px;
+	font-weight: bold;
+	color: red;
+}
+.screen div:nth-child(8){
+	position: absolute;
+	top: 300px;
+	left: 1600px;
+	font-size: 30px;
+	font-weight: bold;
+	color: red;
+}
+.screen div:nth-child(9){
+	position: absolute;
+	top: 300px;
+	left: 1600px;
+	font-size: 30px;
+	font-weight: bold;
+	color: red;
+}
+.screen div:nth-child(0){
+	position: absolute;
+	top: 300px;
+	left: 1600px;
+	font-size: 30px;
+	font-weight: bold;
+	color: red;
+}
+.input-area{
+	width: 30%;
+	height: 100px;
+	margin: 0 auto;
+}
+input{
+	width: 500px;
+	height: 26px;
+	margin-left: 40px;
+	margin-top: 20px;
+	border: 2px solid pink;
+}
+input:focus{
+	border: 2px solid green;
+}
+.btn{
+	width: 20%;
+	height:30px;
+	margin: 0 auto;
+}
+button{
+	width: 150px;
+	height: 30px;
+	margin-left: 28px;
+	background-color: #fff;
+	border: 2px solid pink;
+}
